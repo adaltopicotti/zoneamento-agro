@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+    <body onload="populateSelect()">
+        <h1>Zoneamento Agrícola - Soja 2018/2019</h1>
+
+        <form method="POST">
+            <div>
+                <label for="">Tipo de Solo: </label>
+                <input type="radio" name="tipo" value="1">Tipo 1
+                <input type="radio" name="tipo" value="2">Tipo 2
+                <input type="radio" name="tipo" value="3">Tipo 3
+            </div>
+            <label for="estado">Estado: </label>
+            <select name="estado">
+                <option value="">Selecione</option>
+                <option value="PR" selected>Paraná</option>
+            </select>
+            <label for="cultivar">Cultivar: </label>
+            <select id="cultivar"  name="cultivar">
+            </select>
+
+            <button formaction="http://localhost:3003/cultivar">Incluir</button>
+            <button formaction="http://localhost:3003/usuarios/3">Alterar</button>
+        </form>
+
+        <style>
+            input,
+            textarea,
+            select {
+                display: block;
+                margin-bottom: 10px
+            }
+            input[type=radio],
+            input[type=checkbox] {
+                display: inline;
+            }
+        </style>
+        <script>
+
+           function populateSelect() {
+                // CREATE AN XMLHttpRequest OBJECT, WITH GET METHOD.
+                var xhr = new XMLHttpRequest(), 
+                    method = 'GET',
+                    overrideMimeType = 'application/json',
+                    url = 'cultivar.json';        // ADD THE URL OF THE FILE.
+
+                xhr.onreadystatechange = function () {
+                    if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+                            
+                        // PARSE JSON DATA.
+                        var cultivares = JSON.parse(xhr.responseText);
+
+                        var ele = document.getElementById('cultivar');
+                        for (var i = 0; i < cultivares.length; i++) {
+                            // BIND DATA TO <select> ELEMENT.
+                            ele.innerHTML = ele.innerHTML +
+                                '<option value="' + cultivares[i].id + '">' + cultivares[i].cultivar + '</option>';
+                        }
+                    }
+                };
+                xhr.open(method, url, true);
+                xhr.send();
+            }
+        </script>
+    </body>
+</html>
