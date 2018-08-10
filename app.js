@@ -48,8 +48,8 @@ const token = [{
 
 app.get('/verify', (req, resp) => {
     const key = data => data.token == req.query.token
-    const result = token.filter(key)
-    // const result = JSON.stringify(token.filter(key))
+    // const result = token.filter(key)
+    const result = JSON.stringify(token.filter(key))
     
     resp.send(result)
 })
