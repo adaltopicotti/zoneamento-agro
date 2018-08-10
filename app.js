@@ -27,6 +27,32 @@ app.set('view engine', 'html')
 app.set('views', __dirname)
 
 
+const token = [{
+    token: 'ksd123456',
+    profile: {
+            user: 'roncaefuca',
+            pwd: 'ursoporco',
+            ativo: false
+        }
+    },
+    {
+    token: 'lki654321',
+    profile: {
+        user: 'roncaefuca',
+        pwd: 'ursoporco',
+        token: 'ksd123546',
+        ativo: false   
+    }
+ }]
+
+
+app.get('/verify', (req, resp) => {
+    const key = data => data.token == req.query.token
+    const result = token.filter(key)
+    // const result = JSON.stringify(token.filter(key))
+    
+    resp.send(result)
+})
 
 var municipio
 var cultivar
