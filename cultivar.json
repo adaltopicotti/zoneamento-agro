@@ -1,2604 +1,1860 @@
  [
         {
             "id": "1",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "AVANTI SEEDS",
             "cultivar": "AV AGILY RR"
         },
         {
             "id": "2",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "AVANTI SEEDS",
             "cultivar": "AV GURIA RR"
         },
         {
             "id": "3",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "AVANTI SEEDS",
             "cultivar": "SW BRIZA RR"
         },
         {
             "id": "4",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "AMS TIBAGI RR"
         },
         {
             "id": "5",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS 1511 IPRO"
         },
         {
             "id": "6",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS 1519 LL"
         },
         {
             "id": "7",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS 1543 IPRO"
         },
         {
             "id": "8",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS 1580 IPRO"
         },
         {
             "id": "9",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS 1691 IPRO"
         },
         {
             "id": "10",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS 2590 IPRO"
         },
         {
             "id": "11",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS 2640 RR"
         },
         {
             "id": "12",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "BS IRGA1642 IPRO"
         },
         {
             "id": "13",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "CZ 15B64 IPRO"
         },
         {
             "id": "14",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "CZ 15B92 IPRO"
         },
         {
             "id": "15",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "CZ 16B39 LL"
         },
         {
             "id": "16",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "CZ 26B05 IPRO"
         },
         {
             "id": "17",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "BAYER S/A",
             "cultivar": "CZ 26B42 IPRO"
         },
         {
             "id": "18",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "FPS IGUAÇU RR"
         },
         {
             "id": "19",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "FPS PARANAPANEMA RR"
         },
         {
             "id": "20",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "FPS SOLIMÕES RR"
         },
         {
             "id": "21",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "FUNDACEP 66 RR"
         },
         {
             "id": "22",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "BAYER S/A",
             "cultivar": "RA626"
         },
         {
             "id": "23",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "TEC 5936 IPRO"
         },
         {
             "id": "24",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "TEC 6029 IPRO"
         },
         {
             "id": "25",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "BAYER S/A",
             "cultivar": "TEC 6702 IPRO"
         },
         {
             "id": "26",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "BAYER S/A",
             "cultivar": "TEC 7022 IPRO"
         },
         {
             "id": "27",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "BAYER S/A",
             "cultivar": "TEC 7849 IPRO"
         },
         {
             "id": "28",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "BAYER S/A",
             "cultivar": "TECIRGA 6070 RR"
         },
         {
             "id": "29",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 3459"
         },
         {
             "id": "30",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 5801"
         },
         {
             "id": "31",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 5900"
         },
         {
             "id": "32",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 6000"
         },
         {
             "id": "33",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 6100"
         },
         {
             "id": "34",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 6201"
         },
         {
             "id": "35",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 6300"
         },
         {
             "id": "36",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 6603"
         },
         {
             "id": "37",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "CEI - CENTRO EDUCACIONAL INTEGRADO",
             "cultivar": "INT 7100 IPRO"
         },
         {
             "id": "38",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "5D645 RR"
         },
         {
             "id": "39",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "96R70 IPRO"
         },
         {
             "id": "40",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 202 IPRO"
         },
         {
             "id": "41",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 206 RR"
         },
         {
             "id": "42",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 208"
         },
         {
             "id": "43",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 217"
         },
         {
             "id": "44",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 237 RR"
         },
         {
             "id": "45",
-            "macrorregiao": "2",
-            "grupo": "GRUPO III",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 237RR"
         },
         {
             "id": "46",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2585 RR"
         },
         {
             "id": "47",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2590 IPRO"
         },
         {
             "id": "48",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2591 IPRO"
         },
         {
             "id": "49",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2609 RR"
         },
         {
             "id": "50",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2611 IPRO"
         },
         {
             "id": "51",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2620 IPRO"
         },
         {
             "id": "52",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2630 RR"
         },
         {
             "id": "53",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2631 AP"
         },
         {
             "id": "54",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2644 IPRO"
         },
         {
             "id": "55",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2686 IPRO"
         },
         {
             "id": "56",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2687 RR"
         },
         {
             "id": "57",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2694 IPRO"
         },
         {
             "id": "58",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2700 IPRO"
         },
         {
             "id": "59",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2720 IPRO"
         },
         {
             "id": "60",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2730 IPRO"
         },
         {
             "id": "61",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2737 RR"
         },
         {
             "id": "62",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "CD 2747 RR"
         },
         {
             "id": "63",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA",
             "cultivar": "DS 5916 IPRO"
         },
         {
             "id": "64",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "95R51"
         },
         {
             "id": "65",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "95Y21"
         },
         {
             "id": "66",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "95Y52"
         },
         {
             "id": "67",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "95Y72"
         },
         {
             "id": "68",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "96Y90"
         },
         {
             "id": "69",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "97R21"
         },
         {
             "id": "70",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "97Y07"
         },
         {
             "id": "71",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "98Y30"
         },
         {
             "id": "72",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "BG 4657"
         },
         {
             "id": "73",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "P98Y11"
         },
         {
             "id": "74",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "P98Y51"
         },
         {
             "id": "75",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "DU PONT DO BRASIL S.A.",
             "cultivar": "P98Y70"
         },
         {
             "id": "76",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1001 IPRO"
         },
         {
             "id": "77",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1002 IPRO"
         },
         {
             "id": "78",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1003 IPRO"
         },
         {
             "id": "79",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1004 IPRO"
         },
         {
             "id": "80",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1005 IPRO"
         },
         {
             "id": "81",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1006 IPRO"
         },
         {
             "id": "82",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1007 IPRO"
         },
         {
             "id": "83",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1010 IPRO"
         },
         {
             "id": "84",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 1074 IPRO"
         },
         {
             "id": "85",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 133"
         },
         {
             "id": "86",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 184"
         },
         {
             "id": "87",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 185"
         },
         {
             "id": "88",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 216"
         },
         {
             "id": "89",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 232"
         },
         {
             "id": "90",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 245 RR"
         },
         {
             "id": "91",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 256 RR"
         },
         {
             "id": "92",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 257"
         },
         {
             "id": "93",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 262"
         },
         {
             "id": "94",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 267"
         },
         {
             "id": "95",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 282"
         },
         {
             "id": "96",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 283"
         },
         {
             "id": "97",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 284"
         },
         {
             "id": "98",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 295 RR"
         },
         {
             "id": "99",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 316 RR"
         },
         {
             "id": "100",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 317"
         },
         {
             "id": "101",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 359 RR"
         },
         {
             "id": "102",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 360 RR"
         },
         {
             "id": "103",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 378 RR"
         },
         {
             "id": "104",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 388 RR"
         },
         {
             "id": "105",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 391"
         },
         {
             "id": "106",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 397 CV"
         },
         {
             "id": "107",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 399 RR"
         },
         {
             "id": "108",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 413 RR"
         },
         {
             "id": "109",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 414 CV"
         },
         {
             "id": "110",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 433 RR"
         },
         {
             "id": "111",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 511"
         },
         {
             "id": "112",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 5601 RR"
         },
         {
             "id": "113",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 5804 RR"
         },
         {
             "id": "114",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS 6203 RR"
         },
         {
             "id": "115",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "BRS ESTÂNCIA RR"
         },
         {
             "id": "116",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EMBRAPA SOJA",
             "cultivar": "EMBRAPA 48"
         },
         {
             "id": "117",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EXPO GRAIN COMÉRCIO DE SEMENTES EIRELI",
             "cultivar": "BA 5770 XI"
         },
         {
             "id": "118",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EXPO GRAIN COMÉRCIO DE SEMENTES EIRELI",
             "cultivar": "BA 6011 XI"
         },
         {
             "id": "119",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EXPO GRAIN COMÉRCIO DE SEMENTES EIRELI",
             "cultivar": "BA 6230 XI"
         },
         {
             "id": "120",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "EXPO GRAIN COMÉRCIO DE SEMENTES EIRELI",
             "cultivar": "BA 6380 XI"
         },
         {
             "id": "121",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "EXPO GRAIN COMÉRCIO DE SEMENTES EIRELI",
             "cultivar": "BA 6525 XI"
         },
         {
             "id": "122",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "FEPAGRO",
             "cultivar": "FEPAGRO 36 RR"
         },
         {
             "id": "123",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FEPAGRO",
             "cultivar": "FEPAGRO 37 RR"
         },
         {
             "id": "124",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 1154 RR"
         },
         {
             "id": "125",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 1157 RR"
         },
         {
             "id": "126",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 2155 RR"
         },
         {
             "id": "127",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 2161 RR"
         },
         {
             "id": "128",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 2557 RR"
         },
         {
             "id": "129",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 3156 IPRO"
         },
         {
             "id": "130",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 4153 IPRO"
         },
         {
             "id": "131",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTR 4160 IPRO"
         },
         {
             "id": "132",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS ARAPOTY RR"
         },
         {
             "id": "133",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS CAMPO MOURÃO RR"
         },
         {
             "id": "134",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS FENIX"
         },
         {
             "id": "135",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS IBYARA RR"
         },
         {
             "id": "136",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS IPÊ RR"
         },
         {
             "id": "137",
-            "macrorregiao": "1",
-            "grupo": "GRUPO III",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS REALEZA RR"
         },
         {
             "id": "138",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS SEMENTES S/A"
         },
         {
             "id": "139",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "FTS SEMENTES S/A",
             "cultivar": "FTS TAPES RR"
         },
         {
             "id": "140",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GAÚCHA MELHORAMENTO",
             "cultivar": "GMX APORREADA RR"
         },
         {
             "id": "141",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GAÚCHA MELHORAMENTO",
             "cultivar": "GMX CANCHEIRO RR"
         },
         {
             "id": "142",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GAÚCHA MELHORAMENTO",
             "cultivar": "GMX GUAPO RR"
         },
         {
             "id": "143",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GAÚCHA MELHORAMENTO",
             "cultivar": "GMX GURI RR"
         },
         {
             "id": "144",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GAÚCHA MELHORAMENTO",
             "cultivar": "GMX REDOMÃO RR"
         },
         {
             "id": "145",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GAÚCHA MELHORAMENTO",
             "cultivar": "GMX REDOMONA RR"
         },
         {
             "id": "146",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GAÚCHA MELHORAMENTO",
             "cultivar": "GMX XIRÚ RR"
         },
         {
             "id": "147",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "50I52 RSF IPRO"
         },
         {
             "id": "148",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "53I54 RSF IPRO"
         },
         {
             "id": "149",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "54I52 RSF IPRO"
         },
         {
             "id": "150",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "55I57 RSF IPRO"
         },
         {
             "id": "151",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "57HO123 TP IPRO"
         },
         {
             "id": "152",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "57I52 RSF IPRO"
         },
         {
             "id": "153",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "5855 RSF IPRO"
         },
         {
             "id": "154",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "58HO110 MM IPRO"
         },
         {
             "id": "155",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "58I60 RSF IPRO"
         },
         {
             "id": "156",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "5953 RSF"
         },
         {
             "id": "157",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "5958 RSF IPRO"
         },
         {
             "id": "158",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "59HO124 PR IPRO"
         },
         {
             "id": "159",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "59I60 RSF IPRO"
         },
         {
             "id": "160",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6160 RSF IPRO"
         },
         {
             "id": "161",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "61HO125 IPRO"
         },
         {
             "id": "162",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "61I59 RSF IPRO"
         },
         {
             "id": "163",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6260 RSF IPRO"
         },
         {
             "id": "164",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6266 RSF IPRO"
         },
         {
             "id": "165",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "62MS00 RR"
         },
         {
             "id": "166",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "63I64 RSF IPRO"
         },
         {
             "id": "167",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6458 RSF IPRO"
         },
         {
             "id": "168",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "64HO114 IPRO"
         },
         {
             "id": "169",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "64HO133 IPRO"
         },
         {
             "id": "170",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "64I61 RSF IPRO"
         },
         {
             "id": "171",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "64MS00 IPRO"
         },
         {
             "id": "172",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6563 RSF IPRO"
         },
         {
             "id": "173",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "65I65 RSF IPRO"
         },
         {
             "id": "174",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6663 RSF"
         },
         {
             "id": "175",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "66HO116 IPRO"
         },
         {
             "id": "176",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "66I68 RSF IPRO"
         },
         {
             "id": "177",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6863 RSF"
         },
         {
             "id": "178",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "68I70 RSF IPRO"
         },
         {
             "id": "179",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "6968 RSF"
         },
         {
             "id": "180",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "7166 RSF IPRO"
         },
         {
             "id": "181",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "7869 RSF"
         },
         {
             "id": "182",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "95R90 IPRO"
         },
         {
             "id": "183",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "ADV 4317 IPRO"
         },
         {
             "id": "184",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "AFS 110 RR"
         },
         {
             "id": "185",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "BALU 3711"
         },
         {
             "id": "186",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "BMX FORÇA RR"
         },
         {
             "id": "187",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "BMX POTÊNCIA RR"
         },
         {
             "id": "188",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "BMX TITAN RR"
         },
         {
             "id": "189",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "BMX TURBO RR"
         },
         {
             "id": "190",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "DMARIO 58I"
         },
         {
             "id": "191",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "DMARIO 70I"
         },
         {
             "id": "192",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "DON MARIO 5.9I"
         },
         {
             "id": "193",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "DS 6217 IPRO"
         },
         {
             "id": "194",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS 1755 IPRO"
         },
         {
             "id": "195",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS 1867 IPRO"
         },
         {
             "id": "196",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS ANTARES RR"
         },
         {
             "id": "197",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS ATALANTA IPRO"
         },
         {
             "id": "198",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS JÚPITER RR"
         },
         {
             "id": "199",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS NETUNO RR"
         },
         {
             "id": "200",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS SOLAR IPRO"
         },
         {
             "id": "201",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "FPS URANO RR"
         },
         {
             "id": "202",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "GUAIA6510 RR"
         },
         {
             "id": "203",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "K5616"
         },
         {
             "id": "204",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "K6116"
         },
         {
             "id": "205",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "K6221"
         },
         {
             "id": "206",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "L60150 IPRO"
         },
         {
             "id": "207",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "L60158 IPRO"
         },
         {
             "id": "208",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "NEX 457 IPRO"
         },
         {
             "id": "209",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "NEX 458 RR"
         },
         {
             "id": "210",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "NEX 467 RR"
         },
         {
             "id": "211",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "PP 7500 IPRO"
         },
         {
             "id": "212",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "PRE 5808"
         },
         {
             "id": "213",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "PRE 6310 IPRO"
         },
         {
             "id": "214",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "PRE 6336"
         },
         {
             "id": "215",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "RK 5813 RR"
         },
         {
             "id": "216",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "RK 6316 IPRO"
         },
         {
             "id": "217",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "RK 6813 RR"
         },
         {
             "id": "218",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "RK 7214 IPRO"
         },
         {
             "id": "219",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "ROOS AVANCE RR"
         },
         {
             "id": "220",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "ROOS CAMINO RR"
         },
         {
             "id": "221",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL",
             "cultivar": "ROTA 54 IPRO"
         },
         {
             "id": "222",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL ",
             "cultivar": "BMX ATIVA RR"
         },
         {
             "id": "223",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL ",
             "cultivar": "BMX ENERGIA RR"
         },
         {
             "id": "224",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL ",
             "cultivar": "DMARIO 6200"
         },
         {
             "id": "225",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL ",
             "cultivar": "HO 5310 IPRO"
         },
         {
             "id": "226",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GDM GENETICA DO BRASIL "
         },
         {
             "id": "227",
-            "macrorregiao": "3",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "GNZ 1674 RR"
         },
         {
             "id": "228",
-            "macrorregiao": "3",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "GNZ 1675 RR"
         },
         {
             "id": "229",
-            "macrorregiao": "3",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "GNZ 1774 RR"
         },
         {
             "id": "230",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "GNZ 550S RR"
         },
         {
             "id": "231",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "GNZ 660S RR"
         },
         {
             "id": "232",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "RM 5885"
         },
         {
             "id": "233",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "SRM 4602"
         },
         {
             "id": "234",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "SRM 5200"
         },
         {
             "id": "235",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "SRM 5944"
         },
         {
             "id": "236",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "SRM 5951"
         },
         {
             "id": "237",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "GENEZE SEMENTES S/A",
             "cultivar": "SRM 6256"
         },
         {
             "id": "238",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "HO SEMENTES LTDA",
             "cultivar": "57HO121 SC RR"
         },
         {
             "id": "239",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "HO SEMENTES LTDA",
             "cultivar": "58HO124 EP RR"
         },
         {
             "id": "240",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "HO SEMENTES LTDA",
             "cultivar": "HS 61103"
         },
         {
             "id": "241",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "HO SEMENTES LTDA",
             "cultivar": "HS 63126"
         },
         {
             "id": "242",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "LUIZ ALBERTO BENSO",
             "cultivar": "BE 5711"
         },
         {
             "id": "243",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "LUIZ ALBERTO BENSO",
             "cultivar": "BE 7015 RR"
         },
         {
             "id": "244",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "LUIZ ALBERTO BENSO",
             "cultivar": "BENSO 1 RR"
         },
         {
             "id": "245",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "LUIZ ALBERTO BENSO",
             "cultivar": "BENSO 3 RR"
         },
         {
             "id": "246",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "5644I PRO"
         },
         {
             "id": "247",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "5674I PRO"
         },
         {
             "id": "248",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "5761 IPRO"
         },
         {
             "id": "249",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "5857 IPRO"
         },
         {
             "id": "250",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "5993 IPRO"
         },
         {
             "id": "251",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "5994 IPRO"
         },
         {
             "id": "252",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6023 IPRO"
         },
         {
             "id": "253",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6037 IPRO"
         },
         {
             "id": "254",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6039 IPRO"
         },
         {
             "id": "255",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6047 IPRO"
         },
         {
             "id": "256",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6051 IPRO"
         },
         {
             "id": "257",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6087 IPRO"
         },
         {
             "id": "258",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6114 IPRO"
         },
         {
             "id": "259",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6240 IPRO"
         },
         {
             "id": "260",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6287 IPRO"
         },
         {
             "id": "261",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6333 IPRO"
         },
         {
             "id": "262",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6391 IPRO"
         },
         {
             "id": "263",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "6453 IPRO"
         },
         {
             "id": "264",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "7045 IPRO"
         },
         {
             "id": "265",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "95R95 IPRO"
         },
         {
             "id": "266",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "AS 3570 IPRO"
         },
         {
             "id": "267",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "AS 3575 IPRO"
         },
         {
             "id": "268",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "AS 3590 IPRO"
         },
         {
             "id": "269",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "AS 3610 IPRO"
         },
         {
             "id": "270",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "AS 3730 IPRO"
         },
         {
             "id": "271",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "AS3680 IPRO"
         },
         {
             "id": "272",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "BS 2606 IPRO"
         },
         {
             "id": "273",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "CD 2728 IPRO"
         },
         {
             "id": "274",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M5410 IPRO"
         },
         {
             "id": "275",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M5705 IPRO"
         },
         {
             "id": "276",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M5730 IPRO"
         },
         {
             "id": "277",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M5838 IPRO"
         },
         {
             "id": "278",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M5892 IPRO"
         },
         {
             "id": "279",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M5917 IPRO"
         },
         {
             "id": "280",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M5947 IPRO"
         },
         {
             "id": "281",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M6210 IPRO"
         },
         {
             "id": "282",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "MONSOY LTDA",
             "cultivar": "M6410 IPRO"
         },
         {
             "id": "283",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NA 5909 RG"
         },
         {
             "id": "284",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 4823"
         },
         {
             "id": "285",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 5106 IPRO"
         },
         {
             "id": "286",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 5160 IPRO"
         },
         {
             "id": "287",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 5258"
         },
         {
             "id": "288",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 5445 IPRO"
         },
         {
             "id": "289",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 5727 IPRO"
         },
         {
             "id": "290",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 5959 IPRO"
         },
         {
             "id": "291",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6006 IPRO"
         },
         {
             "id": "292",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6060 IPRO"
         },
         {
             "id": "293",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6209"
         },
         {
             "id": "294",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6390 IPRO"
         },
         {
             "id": "295",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6535 IPRO"
         },
         {
             "id": "296",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6601 IPRO"
         },
         {
             "id": "297",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6700 IPRO"
         },
         {
             "id": "298",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6823RR"
         },
         {
             "id": "299",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6828 IPRO"
         },
         {
             "id": "300",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6906 IPRO"
         },
         {
             "id": "301",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 6909 IPRO"
         },
         {
             "id": "302",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 7000 IPRO"
         },
         {
             "id": "303",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 7209 IPRO"
         },
         {
             "id": "304",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 7237 IPRO"
         },
         {
             "id": "305",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 7300 IPRO"
         },
         {
             "id": "306",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 7338 IPRO"
         },
         {
             "id": "307",
-            "macrorregiao": "2",
-            "grupo": "GRUPO II",
             "mantenedor": "NIDERA SEEDS BRASIL LTDA",
             "cultivar": "NS 7709 IPRO"
         },
         {
             "id": "308",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "CA 1151811 IPRO"
         },
         {
             "id": "309",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "CA 1156543 IPRO"
         },
         {
             "id": "310",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "CA 1255292 IPRO"
         },
         {
             "id": "311",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "CA 1255493 IPRO"
         },
         {
             "id": "312",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "NK 7059 RR"
         },
         {
             "id": "313",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1049 RR"
         },
         {
             "id": "314",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1059 RR"
         },
         {
             "id": "315",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1060AP"
         },
         {
             "id": "316",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1152 RR"
         },
         {
             "id": "317",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1157 RR"
         },
         {
             "id": "318",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1158 RR"
         },
         {
             "id": "319",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1163 RR"
         },
         {
             "id": "320",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1257 RR"
         },
         {
             "id": "321",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1258 RR"
         },
         {
             "id": "322",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1261 RR"
         },
         {
             "id": "323",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1263 RR"
         },
         {
             "id": "324",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 13561 IPRO"
         },
         {
             "id": "325",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1359S IPRO"
         },
         {
             "id": "326",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 13610 IPRO"
         },
         {
             "id": "327",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1363 RR"
         },
         {
             "id": "328",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1365 RR"
         },
         {
             "id": "329",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1366C IPRO"
         },
         {
             "id": "330",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 13671 IPRO"
         },
         {
             "id": "331",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 15600 IPRO"
         },
         {
             "id": "332",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1561 IPRO"
         },
         {
             "id": "333",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1562 IPRO"
         },
         {
             "id": "334",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 15630 IPRO"
         },
         {
             "id": "335",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 15640 IPRO"
         },
         {
             "id": "336",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1657 IPRO"
         },
         {
             "id": "337",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1662 IPRO"
         },
         {
             "id": "338",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 1665 IPRO"
         },
         {
             "id": "339",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 9070 RR"
         },
         {
             "id": "340",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "SYN 9074 RR"
         },
         {
             "id": "341",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "UB 12521065 IPRO"
         },
         {
             "id": "342",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "SYNGENTA SEEDS LTDA",
             "cultivar": "UB 1350578 IPRO"
         },
         {
             "id": "343",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "5400 IPRO"
         },
         {
             "id": "344",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "5D610 RR"
         },
         {
             "id": "345",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "5D6215 IPRO"
         },
         {
             "id": "346",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "5D634 RR"
         },
         {
             "id": "347",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "60163 IPRO"
         },
         {
             "id": "348",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "6400 IPRO"
         },
         {
             "id": "349",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "CZ 36B31 IPRO"
         },
         {
             "id": "350",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "DS 6017 IPRO"
         },
         {
             "id": "351",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "DS 6716 IPRO"
         },
         {
             "id": "352",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "PRODUZA IPRO"
         },
         {
             "id": "353",
-            "macrorregiao": "2",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "SG 1059 IPRO"
         },
         {
             "id": "354",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "SG 10I58 IPRO"
         },
         {
             "id": "355",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "SG 10I61 IPRO"
         },
         {
             "id": "356",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "ST 620 IPRO"
         },
         {
             "id": "357",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 1066 RR"
         },
         {
             "id": "358",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 1067 RR"
         },
         {
             "id": "359",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 1264 RR"
         },
         {
             "id": "360",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 1266 RR"
         },
         {
             "id": "361",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 1759 RR"
         },
         {
             "id": "362",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 2158 IPRO"
         },
         {
             "id": "363",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7059 IPRO"
         },
         {
             "id": "364",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7060 IPRO"
         },
         {
             "id": "365",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7061 IPRO"
         },
         {
             "id": "366",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7062 IPRO"
         },
         {
             "id": "367",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7063 IPRO"
         },
         {
             "id": "368",
-            "macrorregiao": "1",
-            "grupo": "GRUPO II",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7067 IPRO"
         },
         {
             "id": "369",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7161 RR"
         },
         {
             "id": "370",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7260 IPRO"
         },
         {
             "id": "371",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7262 RR"
         },
         {
             "id": "372",
-            "macrorregiao": "1",
-            "grupo": "GRUPO I",
             "mantenedor": "TMG TROPICAL MELHORAMENTO E GENETICA LTDA.",
             "cultivar": "TMG 7363 RR"
         }

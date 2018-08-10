@@ -3,11 +3,15 @@ const app = express()
 const bodyParser = require('body-parser')
 const path = require('path')
 const fs = require('fs')
-
+const ejs = require('ejs')
 const jsonFile = __dirname + '/pr.json'
 
 // const data = fs.readFileSync(jsonFile, 'utf-8')
 // console.log(data)
+app.use(express.static(path.join(__dirname + '/Script')))
+
+ejs.open = '{{'
+ejs.close = '}}'
 
 fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
     data = JSON.parse(conteudo)
@@ -18,23 +22,25 @@ fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
 
 //http://beautifytools.com/excel-to-json-converter.php Conversor
 app.use(bodyParser.urlencoded({ extended: true }))
+app.engine('html', ejs.renderFile)
+app.set('view engine', 'html')
+app.set('views', __dirname)
 
 
+
+var municipio
+var cultivar
 
 app.post('/cultivar', (req, resp) => {
-    const macro = data => data.value == req.body.municipio
-    const conteudo = fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
+    const conteudo = fs.readFile(__dirname + '/cultivar.json', 'utf-8', (err, conteudo) => {
         data = JSON.parse(conteudo)
         console.log(data.filter(macro))
 
-        return data.filter(macro)
+        //return data.filter(macro)
     })
-    //const doc = document.querySelector('[zon-result]')
-    // const conteudo = document.getElementById('conteudo')
-    // conteudo.innerHTML = 'teste'
-    // console.log(req.query) --> para method GET
-    console.log(`COnteudo: ${conteudo}`)
-    resp.send(conteudo)
+    console.log(`Conteudo: ${conteudo}`)
+    console.log(`Data ${data.filter(macro)}`)
+    resp.send(data.filter(macro))
 })
 
 app.post('/usuarios/:id', (req, resp) => {
@@ -43,16 +49,52 @@ app.post('/usuarios/:id', (req, resp) => {
     resp.send('<h1>Parabéns. Usuário Alterado!</h1>')
 })
 
+const teste = file => { fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
+    return JSON.parse(conteudo)
+})}
 
 app.get('/', function (req, res) {
-    res.sendFile(path.join(__dirname + '/index.html'))
+
+    fs.readFile(__dirname + '/pr.json', 'utf-8', (err, conteudo) => {
+        municipio = JSON.parse(conteudo)
+    })
+
+    fs.readFile(__dirname + '/cultivar.json', 'utf-8', (err, conteudo) => {
+        cultivar = JSON.parse(conteudo)
+    })
+    console.log(teste(__dirname + '/pr.json'))
+    res.render( 'index', {subtitle: 'teste', data: {
+        municipios: municipio, 
+        cultivares: cultivar}
+    })
+   // console.log(req)
  })
 
- app.use(express.static(path.join(__dirname + '/Script')))
- //Store all JS and CSS in Scripts folder.
+ app.post('/', function (req, res) {
+    const selCultivar = data => data.id == req.body.cultivar
+    const selMunicipio = data => data.value == req.body.municipio
+    console.log(req.body.cultivar)
+    selectedCultivar = cultivar.filter(selCultivar)
+    selectedMunicipio= municipio.filter(selMunicipio)
+    console.log(selectedMunicipio[0].municipio)
+    console.log(selectedCultivar)
+    res.render( 'index', {subtitle: 'teste', data: {
+        municipios: municipio, 
+        cultivares: cultivar,
+        result: {
+            cultivar: selectedCultivar[0],
+            municipio: selectedMunicipio[0]
+        }
+    }
+    })
+   // console.log(req)
+ })
+
+
 
  var port = process.env.PORT || 3000
 
 app.listen(port, function () {
     console.log(`Umbler listening on port ${port}`)
 })
+
