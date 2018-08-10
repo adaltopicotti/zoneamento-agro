@@ -40,7 +40,6 @@ const token = [{
     profile: {
         user: 'roncaefuca',
         pwd: 'ursoporco',
-        token: 'ksd123546',
         ativo: false   
     }
  }]
