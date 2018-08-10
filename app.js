@@ -1,15 +1,15 @@
 const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
-
+const path = require('path')
 const fs = require('fs')
 
-const path = __dirname + '/pr.json'
+const jsonFile = __dirname + '/pr.json'
 
-// const data = fs.readFileSync(path, 'utf-8')
+// const data = fs.readFileSync(jsonFile, 'utf-8')
 // console.log(data)
 
-fs.readFile(path, 'utf-8', (err, conteudo) => {
+fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
     data = JSON.parse(conteudo)
     return data
 })
@@ -23,7 +23,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 app.post('/cultivar', (req, resp) => {
     const macro = data => data.value == req.body.municipio
-    const conteudo = fs.readFile(path, 'utf-8', (err, conteudo) => {
+    const conteudo = fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
         data = JSON.parse(conteudo)
         console.log(data.filter(macro))
 
@@ -45,10 +45,10 @@ app.post('/usuarios/:id', (req, resp) => {
 
 
 app.get('/', function (req, res) {
-    res.sendFile(__dirname + '/index.html');
+    res.sendFile(path.join(__dirname + '/index.html'))
  })
 
- app.use(express.static(__dirname + '/Script'));
+ app.use(express.static(path.join(__dirname + '/Script')))
  //Store all JS and CSS in Scripts folder.
 
  var port = process.env.PORT || 3000
