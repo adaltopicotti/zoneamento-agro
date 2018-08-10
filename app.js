@@ -23,16 +23,17 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 app.post('/cultivar', (req, resp) => {
     const macro = data => data.value == req.body.municipio
-    fs.readFile(path, 'utf-8', (err, conteudo) => {
+    const conteudo = fs.readFile(path, 'utf-8', (err, conteudo) => {
         data = JSON.parse(conteudo)
         console.log(data.filter(macro))
+
         return data.filter(macro)
     })
     //const doc = document.querySelector('[zon-result]')
     // const conteudo = document.getElementById('conteudo')
     // conteudo.innerHTML = 'teste'
     // console.log(req.query) --> para method GET
-
+    console.log(`COnteudo: ${conteudo}`)
     resp.send(conteudo)
 })
 
@@ -44,7 +45,14 @@ app.post('/usuarios/:id', (req, resp) => {
 
 
 app.get('/', function (req, res) {
-    res.send('Hello World');
+    res.sendFile(__dirname + '/index.html');
  })
- 
-app.listen(3003)
+
+ app.use(express.static(__dirname + '/Script'));
+ //Store all JS and CSS in Scripts folder.
+
+ var port = process.env.PORT || 3000
+
+app.listen(port, function () {
+    console.log(`Umbler listening on port ${port}`)
+})
