@@ -8,7 +8,7 @@ const jsonFile = __dirname + '/pr.json'
 
 // const data = fs.readFileSync(jsonFile, 'utf-8')
 // console.log(data)
-app.use(express.static(path.join(__dirname + '/Script')))
+app.use(express.static(__dirname + '/scripts'))
 
 ejs.open = '{{'
 ejs.close = '}}'
