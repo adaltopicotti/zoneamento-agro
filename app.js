@@ -9,14 +9,12 @@ const jsonFile = __dirname + '/pr.json'
 // const data = fs.readFileSync(jsonFile, 'utf-8')
 // console.log(data)
 app.use(express.static(__dirname + '/scripts'))
+app.use(express.static(__dirname + '/json'))
 
 ejs.open = '{{'
 ejs.close = '}}'
 
-fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
-    data = JSON.parse(conteudo)
-    return data
-})
+
 
 
 
@@ -80,22 +78,16 @@ const teste = file => { fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
 
 app.get('/', function (req, res) {
 
-    fs.readFile(__dirname + '/pr.json', 'utf-8', (err, conteudo) => {
-        municipio = JSON.parse(conteudo)
-    })
-
-    fs.readFile(__dirname + '/cultivar.json', 'utf-8', (err, conteudo) => {
-        cultivar = JSON.parse(conteudo)
-    })
     console.log(teste(__dirname + '/pr.json'))
-    res.render( 'index', {subtitle: 'teste', data: {
-        municipios: municipio, 
-        cultivares: cultivar}
-    })
+    res.render( 'index', )
    // console.log(req)
  })
 
  app.post('/', function (req, res) {
+    fs.readFile(jsonFile, 'utf-8', (err, conteudo) => {
+        data = JSON.parse(conteudo)
+        return data
+    })
     const selCultivar = data => data.id == req.body.cultivar
     const selMunicipio = data => data.value == req.body.municipio
     console.log(req.body.cultivar)

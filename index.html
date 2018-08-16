@@ -6,9 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Riddle Code</title>
 </head>
-    <body onload="populateSelect()">
+    <body onload="init()">
         <h1>Zoneamento Agrícola - Soja 2018/2019</h1>
-        <h2><%= subtitle %></h2>
         <form method="POST">
             <div>
                 <label for="">Tipo de Solo: </label>
@@ -23,15 +22,9 @@
             </select>
             <label for="municipio">Municipio: </label>
             <select id="municipio" name="municipio">
-                <% data.municipios.forEach(function(data) { %>
-                    <option value='<%= data.value %>'><%= data.municipio %></option>
-                <% }) %>
             </select>
             <label for="cultivar">Cultivar: </label>
             <select id="cultivar"  name="cultivar">
-                    <% data.cultivares.forEach(function(data) { %>
-                        <option value='<%= data.id %>'><%= data.cultivar %></option>
-                    <% }) %>
             </select>
 
             <button formaction="/">Incluir</button>
@@ -104,5 +97,6 @@
             }
         </style>
         <script src="teste.js"></script>
+        <script src="populate.js"></script>
     </body>
 </html>
